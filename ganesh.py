@@ -1,1 +1,4 @@
-print("hello Ganesh")
+print("hello Ganesh Basnet")        
+wq:
+    :wq
+    i
